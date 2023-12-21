@@ -1,0 +1,33 @@
+{
+    "offices": [
+      {
+        "address": "Your Address Here\nKhobar\nSaudi Arabia",
+        "id": "ID134",
+        "image": "Image URL Here",
+        "lat": 26.279000, 
+        "lng": 50.200000,
+        "name": "Customer 1 - online",
+        "phone": "0505050505",
+        "region": "middle-east"
+      },
+      {
+        "address": "Another Address Here\nKhobar\nSaudi Arabia",
+        "id": "ID324",
+        "image": "Another Image URL Here",
+        "lat": 26.279444, 
+        "lng": 50.208333,
+        "name": "Customer 2 - online",
+        "phone": "05404040404",
+        "region": "middle-east"
+      }
+    ],
+    "regions": [
+      {
+        "coords": {"lat": 26.279444, "lng": 50.208333},
+        "id": "middle-east",
+        "name": "Middle East",
+        "zoom": 5.0
+      }
+    ]
+  }
+  
